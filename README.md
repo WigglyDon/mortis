@@ -6,6 +6,7 @@ The aim is to understand the van, improve the things that are frustrating, and b
 
 ## Start here
 
+- [Current handoff](HANDOFF.md) — the immediate wireless Android Auto assignment and project context.
 - [Vehicle profile](docs/vehicle.md) — what we know about Mortis.
 - [Roadmap](docs/roadmap.md) — the next steps and longer-term interests.
 - [SYNC 3 investigation](docs/research/sync3.md) — findings, sources, and open technical questions.
@@ -13,6 +14,8 @@ The aim is to understand the van, improve the things that are frustrating, and b
 ## First project
 
 Investigate wireless Android Auto using Mortis's existing SYNC 3 system. The immediate milestone is a hardware inventory and a usable inspection method. Running our own wireless receiver inside SYNC is a hypothesis to test.
+
+The desired experience is automatic wireless startup when the phone reconnects to the van, with reliable recovery across repeated DoorDash delivery stops.
 
 Other work can grow alongside this: maintenance records, electrical systems, interior changes, and our own vehicle software.
 
