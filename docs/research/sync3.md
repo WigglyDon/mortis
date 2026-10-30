@@ -2,6 +2,8 @@
 
 Research started October 30, 2026.
 
+Follow-up: the [inventory experiment](../experiments/001-apim-inventory.md) records the verified Ford download and prepared USB files. The [native implementation investigation](wireless-native.md) records source-level protocol findings and the receiver transport experiment.
+
 ## Objective
 
 Investigate whether Mortis's SYNC 3 can run our own wireless Android Auto implementation using its existing hardware. Existing mods are useful references; technical feasibility will be decided by the hardware, software interfaces, and experiments.

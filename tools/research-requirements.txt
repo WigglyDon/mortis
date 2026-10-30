@@ -1,0 +1,5 @@
+# Offline stock-image inspection only; install in a private virtual environment.
+dissect.qnxfs==1.1
+dissect.cstruct==4.6
+dissect.util==3.22
+pyelftools==0.32
