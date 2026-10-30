@@ -1,0 +1,14 @@
+# Local diagnostic captures and vehicle records
+/private/
+/raw/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# macOS
+.DS_Store
+._*
